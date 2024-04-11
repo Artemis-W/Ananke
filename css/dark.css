@@ -1,0 +1,88 @@
+@font-face {
+    font-family: 'Deltarune';
+    src: url(../fonts/deltarune.ttf);
+}
+* {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+body{
+    background-image:  url(../images/stars.gif), linear-gradient(to right, #7D7ABC, #7D7ABC);
+    background-repeat: repeat-y;
+    background-size: contain;
+}
+
+
+
+header{
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+#header{
+    color:white;
+    font-size: 2.5vmax;
+}
+
+
+
+nav {
+    text-align: center;
+    font-size: clamp( 10px, 2vmax, 75px);
+    background: lightcoral;
+}
+.nav-link{
+    border-radius: 1vmax;
+}
+.navbar-toggle{
+    width: 50px;
+    background-image: url(../images/heart.png);
+}
+#Selected_Page{
+    border-radius: 1vmax;
+    color: lightcoral;
+    background-color: black;
+}
+#hovered{
+    border-radius: 1vmax;
+    background-color: white;
+    color: black;
+}
+
+
+
+section{
+    border: 10px;
+    margin: 30px;
+    min-height: 70vh;
+    background-color: #6457A6;
+}
+.page-intro{
+    font-size: 2vmax;
+    color: white;
+}
+article{
+    font-weight: bold;
+    font-size: 1.5vmax;
+    color: white;
+}
+#hovered_g{
+    border-radius: 1vmax;
+    background-color: black;
+}
+
+
+footer{
+    font-size: 2vmax;
+    background-color:lightcoral;
+    text-align: center;
+    color: white;
+}
+.footer{
+    font-size:2vmax;
+}
+.contacts{
+    color: aquamarine !important
+}
