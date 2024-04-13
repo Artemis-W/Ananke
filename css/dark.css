@@ -64,7 +64,7 @@ section{
     color: white;
 }
 article{
-    font-weight: bold;
+    margin-left: 1vmax;
     font-size: 1.5vmax;
     color: white;
 }
@@ -86,3 +86,24 @@ footer{
 .contacts{
     color: aquamarine !important
 }
+.intralink{
+    color: aquamarine !important
+}
+
+
+.place{
+    max-height: 18vmax;
+    float: left;
+    margin: 1vmax;
+    border-radius: 1vmax;
+}
+.place_2{
+    max-height: 18vmax;
+    float: right;
+    margin: 1vmax;
+    border-radius: 1vmax;
+}
+#place{
+    margin-left: 0.5vmax;
+}
+
