@@ -1,4 +1,4 @@
-The current rulers of Dorgheshan are descendants of a noble orcish family that looked for peace in 
+    The current rulers of Dorgheshan are descendants of a noble orcish family that looked for peace in 
 times of war, and thus got exiled by the warmongering rulers at the time. In exile they made many
 allies among the other countries, and their wealth and connections enabled them to influence the 
 political climate of the states from the outside. This culminated after an especially sour defeat 
@@ -7,17 +7,18 @@ the states weak, and the Fragaria family was able to return to provide aid, and,
 their followers, the Heiress to the Fragaria family, Frukta, along with her mother Achene, staged
 a widespread coup across all the states, which came to pass without battle, in which they captured
 and imprisoned all the rulers, and replaced them with powerful allies from the states they derived
-~who had sworn fealty under a magical agreement called the 7 provinces accord~
+        ~who had sworn fealty under a magical agreement called the 7 provinces accord~
 thus maintaining the hierarchies but securing themselves as rulers of the unified kingdom. This led 
 to the era of peace the kingdom is currently experiencing.
 
 Random Notes
     - Vraxa (Captain of the Dorgheshan royal guard)
+    - Axandra (Captain of the peacekeepers)
 
 
 
-    Today's Session begins with [Eden's Character] being given conditional freedom, and being taken to 
-meet with her charge- Axandra, a guard captain, tells [Eden's Character] that she is being summoned by
+    Today's Session begins with Luna being given conditional freedom, and being taken to 
+meet with her charge- Axandra, a guard captain, tells Luna that she is being summoned by
 her charge today for the mission she's been assigned, and while giving her back her equipment, tells
 her that she trusts she'll do an excellent job. She then gives her 20gp and tells her if she completes
 her journey, she will be given not just her freedom, but also a reward, and that she should take care
@@ -29,8 +30,17 @@ and that she will do whatever she can to help should that happen.
 by one of her sources that someone important is leaving the city with an imperial escort, but they
 don't know the details of their identity, and ask her to investigate. They tell her she will find them
 at the west gate, at 5p.m.
-    At 4p.m. Mermelada and [Eden's Character] are introduced to each other and are told where they
+    At 4p.m. Mermelada and Luna are introduced to each other and are told where they
 should go next, Axandra tells them they will have to travel to the ports of Vherak'an to find a ship
 to go where they would like, with a signet they give them that will allow them entry to any ship
     At 5p.m. however, when they arrive at the gate for their departure, they are ambushed by a group
 of bandits, that when killed vanish into a cloud of smoke.
+
+Actual session notes
+    They successfully escape the encounter, but Alua overhears their conversation where they refer
+to a queen, saying she will not be pleased. 
+
+Alua 17
+Luna 12
+Mermelada 11
+Bandits 8
