@@ -72,7 +72,12 @@ article{
     border-radius: 1vmax;
     background-color: black;
 }
-
+.article-intro{
+    margin-top: 2vmax;
+    margin-left: 1vmax;
+    font-size: 2vmax;
+    color: white;
+}
 
 footer{
     font-size: 2vmax;
