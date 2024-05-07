@@ -51,4 +51,6 @@ Alua (Temi) Backstory:
             and to try and find out more information about herself in the process.
 
 
-(Pat) Backstory:
+Angus (Pat) Backstory:
+                Was tasked by a leprechaun to look for the Elder Wyrm Vorkath's treasure in order 
+            to return to his old world 
