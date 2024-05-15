@@ -1,0 +1,33 @@
+    The session begins with a small recap on the adventure's prologue, followed by the announcement 
+of the party's arrival to the portuary city of Tritanum, whereupon they find that the townspeople,
+who they know to be usually jovial, are in a bad humour, many stores and houses look run down 
+and unkempt.
+    There are a couple wealthy merchants from other countries unloading merchandise onto wagons,
+and some are conversing with local merchants getting their information about the state of the country
+if the players listen in they can hear something along these lines:
+
+l       -Yeah, sales are ever-declining, we're lucky to get commerce from incoming travelers, but the
+    people in the countryside are having a rough time dealing with the increased taxes and fees.
+f       -That's not good, are there any signs of change from the monarchs? things have been going 
+    downhill for years now.
+l       -Nothing will change until the nobles get fed up with them too. Right now we're dealing with
+    it by eating into our savings, and only spending on basic necessities. The change has been so
+    gradual it would seem like they're slowly boiling us so we don't notice.
+f       -Well, something should be done to remedy that, let the nobles know things can't keep going
+    this way forever.
+l       -Here's the thing tho, I've heard rumours that some lords are training more troops than usual,
+    seems like the cogs are turning, something is about to happen.
+f       -Seems like quite the scoop, let's go somewhere more private, so you can tell me all about
+    it. Let me buy you a drink.
+l       -That would be wonderful, thanks.
+
+    There is a massive tavern nearby that despite the state of the rest of the town, still seems
+to be fairly well-maintained, and is bustling with activity. Different people of all kinds sit
+around tables, **(tieflings, aarakokra, genasi, humans, dwarves, orcs and dragonborns). The chatter
+loud and lively, but the elves running the establishment seem to be in low spirits.
+    If they talk to any of the many travelers, they would find out that they come mainly from the
+south, and some from Karuulm, and that they are traveling towards the great tree for the festival
+of the moon that happens once every year, where the moon shines vertically onto Yggdrassil, the
+the tree's flowers sprout all at once, and the pollen they generate is said to bring good fortune
+to those who smell it. lanterns are sent skyward to remember the passing of loved ones, to have their
+souls bound to the leaves of the tree.
