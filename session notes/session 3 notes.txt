@@ -1,0 +1,31 @@
+    iris discovers the rune box is locked with a mechanism that contains the letters for Roe Withr
+but need  to be placed in the order of Iorwerth.
+    angus reads about leprechauns
+    Mermelada finds a book on ointments
+    We're in autumn
+
+    Through Fya they find out they are all being looked for by the queen, they are given a trinket to 
+call on her should they need help, that the tatooed come from evaemon,  that a litch caused the civil 
+war that she is not at her most powerful, and that many people are traveling from the Shadowfell into 
+our plane
+
+
+
+
+
+
+Init
+
+
+Iris 23
+Angus 22
+Mermelada 20
+Lola 19
+boss
+Alua 7
+enemigo 2
+Luna 2
+
+
+
+5 (eepy)
