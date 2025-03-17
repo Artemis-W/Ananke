@@ -1,0 +1,11 @@
+Prep:
+
+If the party is to descend into the Underdark, I want Alua to make an Arcana check
+if she is to beat the check (DC 15), she is able to sense, almost subconsciously
+the fact that the nature of the magic around her, but not it's intensity, has shifted
+more and more throughout the descent. If she is to activate detect magic, she will
+be able to see that the kind of magic it's shifted to is necrotic in nature. And also
+have to roll a DC15 Constitution check or be knocked out temporarily, and take a
+point of exhaustion on a roll lower than 5. If she is knocked out, then she will have
+a vision, of 
+
