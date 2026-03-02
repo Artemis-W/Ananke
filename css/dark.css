@@ -1,122 +1,126 @@
-@font-face {
-    font-family: 'Deltarune';
-    src: url(../fonts/deltarune.ttf);
-}
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+
 * {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Georgia, serif;
     padding: 0px;
     border: 0px;
     margin: 0px;
 }
-body{
-    background-image:  url(../images/stars.gif), linear-gradient(to right, #7D7ABC, #7D7ABC);
-    background-repeat: repeat-y;
-    background-size: contain;
+.preload{
+    background-color: black;
 }
 
-
-
 header{
+    vertical-align: middle;
     background-color: black;
     text-align: center;
     padding: 20px;
 }
 #header{
+	font-family: Italianno;
     color:white;
-    font-size: 2.5vmax;
+    font-size: 2.5vw;
 }
-
-
-
 nav {
     text-align: center;
-    font-size: clamp( 10px, 2vmax, 75px);
+    font-size: clamp( 10px, 2vw, 75px);
     background: lightcoral;
 }
 .nav-link{
-    border-radius: 1vmax;
-}
-.navbar-toggle{
-    width: 50px;
-    background-image: url(../images/heart.png);
+    border-radius: 1vw;
+    color: white !important;
 }
 #Selected_Page{
-    border-radius: 1vmax;
+    border-radius: 1vw;
     color: lightcoral;
     background-color: black;
 }
 #hovered{
-    border-radius: 1vmax;
+    border-radius: 1vw;
     background-color: white;
-    color: black;
+    color: black !important;
 }
-
 
 
 section{
     border: 10px;
     margin: 30px;
     min-height: 70vh;
-    background-color: #6457A6;
+    background-color: black;
 }
 .page-intro{
-    font-size: 3vmax;
+    padding-top: 1vw;
+    margin: 2vw;
+    font-size: 2vw;
     color: white;
 }
 article{
-    margin-left: 1vmax;
-    font-size: 1.5vmax;
+    margin-left: 1vw;
+    font-size: 1.5vw;
     color: white;
 }
-#hovered_g{
-    border-radius: 1vmax;
-    background-color: black;
-}
 .article-intro{
-    margin-top: 2vmax;
-    margin-left: 1vmax;
-    font-size: 2vmax;
+    margin-top: 2vw;
+    margin-left: 1vw;
+    font-size: 2vw;
     color: white;
 }
 
-footer{
-    font-size: 2vmax;
-    background-color:lightcoral;
+
+#notes_bar{
+    background: salmon;
     text-align: center;
+    font-size: clamp( 10px, 2vw, 75px);
+    margin: 0.1px;
+    padding: 1vw;
+}
+#sessions-intro{
+    font-size: 3vw;
+}
+#session-notes{
+    margin: 1vw;
+    font-size: 1.5vw;
     color: white;
-}
-.footer{
-    font-size:2vmax;
-}
-.contacts{
-    color: #6457A6 !important
+    width: 98%;
+    text-align: justify;
 }
 .intralink{
-    color: aquamarine !important
+    font-size: 2vw;
+    border-radius: 1vw;
+    color: white !important;
+    text-decoration: none !important;
+}
+
+
+iframe{
+    padding-right: 1vw;
+    padding-bottom: 1vw;
+    width: 100%;
+    overflow: hidden;
+    border: none;
 }
 
 
 .place{
-    max-height: 18vmax;
+    max-height: 18vw;
     float: left;
-    margin: 1vmax;
-    border-radius: 1vmax;
+    margin: 1vw;
+    border-radius: 1vw;
 }
 .place_2{
-    max-height: 18vmax;
+    max-height: 18vw;
     float: right;
-    margin: 1vmax;
-    border-radius: 1vmax;
+    margin: 1vw;
+    border-radius: 1vw;
 }
 #place{
-    margin-left: 0.5vmax;
+    margin-left: 0.5vw;
 }
-
-
 .characters{
-    max-height: 19vmax;
+    max-height: 19vw;
     float: right;
-    margin: 1vmax;
-    border-radius: 1vmax;
+    margin: 1vw;
+    border-radius: 1vw;
 }
+
 
