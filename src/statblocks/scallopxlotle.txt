@@ -1,0 +1,30 @@
+___
+>## Scallopxlotle
+>*Small Beast, unaligned*
+>___
+>- **Armor Class** 16
+>- **Hit Points** 32 (5d6 + 15)
+>- **Speed** 5 ft., Swim 25 ft.
+>- **Initiative** +1 (11)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|4 (-3)|12 (+1)|16 (+3)|3 (-4)|10 (+0)|8 (-1)|
+>___
+>- **Saving Throws** Con +5
+>- **Skills** Perception +2
+>- **Senses** passive Perception 12
+>- **Languages** —
+>- **Challenge** 1/2 (XP 100; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Amphibious.*** Scallopxlotle can breathe air and water.  
+>
+>***Regeneration.*** The scallopxlotle regains 2d8 +3 hit points at the start of its turn if it has at least 1 hit point. If the axolotl has lost any part of its body but is not killed, including a portion of its brain, it can regrow it during a long rest.  
+>
+>### Actions
+>***Bite.*** *Melee Weapon Attack:*  +2 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.  
+>
+>***Regen Share.*** The scallopxlotle can forgo the healing from the start of it's turn, and spend an action to give it to an ally within a 20ft range of itself instead.  
+>
+null

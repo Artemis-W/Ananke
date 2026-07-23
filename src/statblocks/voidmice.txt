@@ -1,0 +1,27 @@
+___
+>## Void Mouse
+>*Small Beast, unaligned*
+>___
+>- **Armor Class** 12
+>- **Hit Points** 9 (2d6 + 2)
+>- **Speed** 40 ft.
+>- **Initiative** +3 (13)
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|8 (-1)|16 (+3)|12 (+1)|2 (-4)|10 (+0)|4 (-3)|
+>___
+>- **Saving Throws** Dex +5, Con +3
+>- **Skills** Perception +2
+>- **Senses** Darkvision 120 ft., passive Perception 12
+>- **Languages** —
+>- **Challenge** 1/2 (XP 100; PB +2)
+>- **Proficiency Bonus** +2
+>___
+>***Keen Smell.*** The rat has advantage on Wisdom (Perception) checks that rely on smell.  
+>
+>***Pack Tactics.*** The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 feet of the creature and the ally isn't incapacitated.  
+>
+>### Actions
+>***Bite.*** *Melee Weapon Attack:*  +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage, and  make a DC 13 Constitution saving throw or take *Hit:* 9 (1d6 + 2) poison damage and be poisoned for 1 minute. The creature can repeat this saving throw at the start of each of its turns, ending the effect on a success.  
+>
